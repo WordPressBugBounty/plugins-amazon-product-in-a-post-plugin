@@ -1,0 +1,1 @@
+# plugins-amazon-product-in-a-post-plugin
